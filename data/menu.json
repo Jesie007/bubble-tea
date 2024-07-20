@@ -1,0 +1,124 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "name": "Classic Milk Tea",
+      "price": "$3.50",
+      "description": "A traditional blend of black tea, milk, and tapioca pearls."
+    },
+    {
+      "id": 2,
+      "name": "Taro Milk Tea",
+      "price": "$4.00",
+      "description": "A sweet and creamy blend of taro root, milk, and tapioca pearls."
+    },
+    {
+      "id": 3,
+      "name": "Matcha Milk Tea",
+      "price": "$4.50",
+      "description": "A refreshing mix of matcha green tea, milk, and tapioca pearls."
+    },
+    {
+      "id": 4,
+      "name": "Strawberry Milk Tea",
+      "price": "$4.00",
+      "description": "A fruity and sweet blend of strawberry, milk, and tapioca pearls."
+    },
+    {
+      "id": 5,
+      "name": "Honeydew Milk Tea",
+      "price": "$4.00",
+      "description": "A refreshing blend of honeydew melon, milk, and tapioca pearls."
+    },
+    {
+      "id": 6,
+      "name": "Oolong Milk Tea",
+      "price": "$4.00",
+      "description": "A fragrant and robust blend of oolong tea, milk, and tapioca pearls."
+    },
+    {
+      "id": 7,
+      "name": "Thai Milk Tea",
+      "price": "$4.00",
+      "description": "A bold blend of Thai tea, milk, and tapioca pearls."
+    },
+    {
+      "id": 8,
+      "name": "Coconut Milk Tea",
+      "price": "$4.00",
+      "description": "A creamy blend of coconut milk, tea, and tapioca pearls."
+    },
+    {
+      "id": 9,
+      "name": "Coffee Milk Tea",
+      "price": "$4.50",
+      "description": "A rich blend of coffee, milk, and tapioca pearls."
+    },
+    {
+      "id": 10,
+      "name": "Brown Sugar Milk Tea",
+      "price": "$4.50",
+      "description": "A sweet blend of brown sugar, milk, and tapioca pearls."
+    },
+    {
+      "id": 11,
+      "name": "Mango Milk Tea",
+      "price": "$4.00",
+      "description": "A tropical blend of mango, milk, and tapioca pearls."
+    },
+    {
+      "id": 12,
+      "name": "Passion Fruit Tea",
+      "price": "$4.00",
+      "description": "A refreshing blend of passion fruit and tea."
+    },
+    {
+      "id": 13,
+      "name": "Lychee Green Tea",
+      "price": "$4.00",
+      "description": "A fragrant blend of lychee and green tea."
+    },
+    {
+      "id": 14,
+      "name": "Wintermelon Milk Tea",
+      "price": "$4.00",
+      "description": "A sweet blend of wintermelon, milk, and tapioca pearls."
+    },
+    {
+      "id": 15,
+      "name": "Jasmine Green Tea",
+      "price": "$3.50",
+      "description": "A delicate blend of jasmine green tea."
+    },
+    {
+      "id": 16,
+      "name": "Almond Milk Tea",
+      "price": "$4.00",
+      "description": "A nutty blend of almond flavor, milk, and tapioca pearls."
+    },
+    {
+      "id": 17,
+      "name": "Avocado Milk Tea",
+      "price": "$4.50",
+      "description": "A creamy blend of avocado, milk, and tapioca pearls."
+    },
+    {
+      "id": 18,
+      "name": "Peach Green Tea",
+      "price": "$4.00",
+      "description": "A fruity blend of peach and green tea."
+    },
+    {
+      "id": 19,
+      "name": "Grapefruit Green Tea",
+      "price": "$4.00",
+      "description": "A tangy blend of grapefruit and green tea."
+    },
+    {
+      "id": 20,
+      "name": "Rose Milk Tea",
+      "price": "$4.50",
+      "description": "A floral blend of rose flavor, milk, and tapioca pearls."
+    }
+  ]
+}

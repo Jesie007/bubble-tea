@@ -1,0 +1,41 @@
+.title {
+  font-size: 4rem;
+  text-align: center;
+  margin-bottom: 4rem;
+  color: #080f0f;
+  grid-column: 1 / -1;
+}
+
+.menu {
+  padding: 2rem;
+  border-radius: 11px;
+  background-color: #a4bab7;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 4rem;
+}
+
+.menu li {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  font-size: 3rem;
+}
+
+.price {
+  font-size: 1.8rem;
+  color: #eff2c0;
+}
+
+.description {
+  font-size: 1.6rem;
+  margin-bottom: 4rem;
+}

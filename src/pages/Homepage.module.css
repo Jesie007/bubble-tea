@@ -1,0 +1,33 @@
+.homepage {
+  height: 100vh;
+  background-image: url("../images/straberry-milk-shake.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.homepage section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.homepage h1 {
+  position: absolute;
+  width: 10%;
+  top: 50%;
+  left: 5%;
+  transform: translate(1%, 50%);
+  font-size: 4.6rem;
+  color: #080f0f;
+}
+
+.homepage p {
+  position: absolute;
+  width: 10%;
+  top: 0;
+  right: 10%;
+  transform: translate(1%, 40rem);
+  font-size: 2.4rem;
+  color: #091212;
+  font-weight: 700;
+}

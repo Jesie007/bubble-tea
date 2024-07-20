@@ -1,0 +1,128 @@
+.about {
+  height: calc(100vh - 6rem);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about h2 {
+  color: #eff2c0;
+
+  font-size: 2.4rem;
+  padding: 3rem;
+  font-weight: 800;
+}
+
+.about p {
+  color: #eff2c0;
+  font-size: 2rem;
+  padding: 4rem;
+  font-weight: 500;
+}
+
+.happiness,
+.quality {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  text-align: start;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.happiness {
+  background-image: url("../images/share.jpg");
+  filter: opacity(0.9) grayscale(10%) brightness(90%) blur(50%);
+}
+
+.quality {
+  background-image: url("../images/mocha-milk-tea.jpg");
+  background-position: center;
+  filter: opacity(0.9) grayscale(10%) brightness(90%) blur(50%);
+}
+
+.footer {
+  background-color: #bea57d;
+  color: #eee;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+}
+
+/*
+.about {
+  height: calc(100vh - 6rem);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about h2,
+.about p {
+  color: #eff2c0; 
+
+}
+.about h2 {
+  font-size: 3rem;
+  padding: 2.8rem;
+  font-weight: 800;
+}
+
+.about p {
+  font-size: 2rem;
+  padding: 4rem;
+  font-weight: 600;
+}
+
+.happiness,
+.quality {
+  flex: 1;
+  position: relative; 
+  display: flex;
+  justify-content: center;
+  align-items: start; 
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.happiness::before,
+.quality::before {
+  content: ""; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  z-index: 1; 
+}
+
+.happiness {
+  background-image: url("../images/share.jpg");
+}
+
+.quality {
+  background-image: url("../images/mocha-milk-tea.jpg");
+  background-position: top;
+}
+
+.happiness div,
+.quality div {
+  position: relative;
+  z-index: 2; 
+}
+
+.footer {
+  background-color: #bea57d;
+  color: #eee;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem; 
+}
+*/

@@ -1,0 +1,28 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: end;
+  gap: 30px;
+  padding: 2rem;
+}
+
+.nav a:link,
+.nav a:visited {
+  text-decoration: none;
+  color: #091212;
+  font-family: inherit;
+  font-size: 1.8rem;
+  margin-right: 1rem;
+}
+
+.nav :global(.active) {
+  background-color: #bea57d;
+  padding: 1rem;
+  border-radius: 11px;
+}
